@@ -1,7 +1,7 @@
 # 📊 Data Visualization Internship – GlobalShala Project
 
 **Platform:** Excelerate    
-**Role:** AI Data Analyst Intern  
+**Role:** Data Analyst Intern  
 **Duration:** June – July 2025  
 **Location:** Remote – Dubai, UAE  
 
