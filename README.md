@@ -2,7 +2,7 @@
 
 **Platform:** Excelerate    
 **Role:** Data Analyst Intern  
-**Duration:** June – July 2025  
+**Duration:** July – August 2025  
 **Location:** Remote – Dubai, UAE  
 
 A real-world marketing analytics internship in collaboration with Excelerate and GlobalShala. This 4-week virtual program focused on analyzing Facebook Ad data to uncover performance gaps, develop visual storytelling, and recommend cost-saving actions to the Finance team.
