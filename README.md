@@ -1,4 +1,4 @@
-# 📊 Data Visualization Internship – GlobalShala Project
+# 📊 Data Visualization Internship – GlobalShala
 
 **Platform:** Excelerate    
 **Role:** Data Analyst Intern  
@@ -65,7 +65,9 @@ This internship helped bridge the gap between marketing data and business insigh
 ## 🙋‍♂️ Author
 
 **Syed Hur Abbas Naqvi**  
-📧 syedhur572@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
+🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
+🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
+📧 **Email:**     [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
+📞 **Phone:**     [+923036098700](tel:+923036098700)
 
 ---
